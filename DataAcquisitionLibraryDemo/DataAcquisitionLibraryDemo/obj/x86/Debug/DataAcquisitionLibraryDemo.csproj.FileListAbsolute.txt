@@ -1,0 +1,6 @@
+C:\Users\Umair\Desktop\Data Acquisition Library Article\DataAcquisitionLibraryDemo\DataAcquisitionLibraryDemo\bin\Debug\DataAcquisitionLibraryDemo.exe
+C:\Users\Umair\Desktop\Data Acquisition Library Article\DataAcquisitionLibraryDemo\DataAcquisitionLibraryDemo\bin\Debug\DataAcquisitionLibraryDemo.pdb
+C:\Users\Umair\Desktop\Data Acquisition Library Article\DataAcquisitionLibraryDemo\DataAcquisitionLibraryDemo\obj\x86\Debug\DataAcquisitionLibraryDemo.exe
+C:\Users\Umair\Desktop\Data Acquisition Library Article\DataAcquisitionLibraryDemo\DataAcquisitionLibraryDemo\obj\x86\Debug\DataAcquisitionLibraryDemo.pdb
+E:\Data Acquisition Library Article\source\DataAcquisitionLibraryDemo\DataAcquisitionLibraryDemo\obj\x86\Debug\DataAcquisitionLibraryDemo.exe
+E:\Data Acquisition Library Article\source\DataAcquisitionLibraryDemo\DataAcquisitionLibraryDemo\obj\x86\Debug\DataAcquisitionLibraryDemo.pdb
